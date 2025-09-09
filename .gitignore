@@ -1,3 +1,4 @@
+platform/
 .ddev/
 .configs-bak/
 wp-config.php
