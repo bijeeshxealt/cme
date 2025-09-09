@@ -1,0 +1,4 @@
+.ddev/
+.configs-bak/
+wp-config.php
+wp-config-ddev.php
